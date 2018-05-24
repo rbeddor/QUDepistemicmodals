@@ -1,68 +1,0 @@
-QUD-prejacent,QUD-competence,Check,Gender,Age,English"Fat Tony is a
-mobster who has faked his own death in order to evade the police.  He secretly plants highly compelling
-evidence of his murder at the docks. 
-The evidence is discovered by the authorities, and the forensic expert
-is summoned to the scene.  After
-carefully reviewing the evidence he concludes, “Fat Tony might be dead.”   
-
-
-
-
-
-
-
-
-
-
-
-
-A week later, a murder is committed.  The detective assigned to investigate the murder is trying to figure out whether Fat Tony could be responsible, and consults a criminal informant. The informant knows that Tony is alive.  The detective asks:
-  “We’re trying to find the killer.  We know that the victim was an enemy of
-Fat Tony.  However, our forensic
-expert said, ‘Fat Tony might be dead.’ 
-Is what he said true?” Which of the following responses would be correct:","Fat Tony is a mobster who has faked
-his own death in order to evade the police.  He secretly plants highly compelling evidence of his murder
-at the docks.  The evidence is
-discovered by the authorities, and Ed the forensic expert is summoned to the
-scene.  After carefully reviewing
-the evidence he concludes, “Fat Tony might be dead.”   A week later, another forensic expert, Ted, is given new
-evidence that conclusively shows that Fat Tony is still alive.  The police department is trying to
-determine whether the initial investigation was competent, and so sends a
-detective to interview Ted.  The detective asks: “We’re trying to figure out whether
-Ed’s initial investigation was competent. 
-On the basis of the initial evidence, Ed said, ‘Fat Tony might be dead.’  Is what he said true?” 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Which of the following responses would be correct?","In the scenario you were given, is Fat Tony alive?","Please answer the following questions about yourself. 
-
-
-
-
-
-What is your gender?",What is your age?,Is English your first language?"{""ImportId"":""QID14""}","{""ImportId"":""QID15""}","{""ImportId"":""QID18""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11_TEXT""}","{""ImportId"":""QID13""}","(b) ""Yes, it is""",Yes,Male,24,Yes,"(a) ""No, it's not""",Yes,Male,36,Yes,"(b) ""Yes, it is""",Yes,Male,30,Yes,"(a) ""No, it's not""",Yes,Male,33,Yes"(b) ""Yes, it is""",,Yes,Male,62,Yes,"(b) ""Yes, it is""",Yes,Female,31,Yes"(b) ""Yes, it is""",,Yes,Female,41,Yes"(a) ""No, it's not""",,Yes,Female,33,Yes"(a) ""No, it's not""",,Yes,Male,29,Yes"(b) ""Yes, it is""",,Yes,Male,39,Yes,"(a) ""No, it's not""",Yes,Male,26,Yes,"(a) ""No, it's not""",Yes,Female,26,No,"(b) ""Yes, it is""",Yes,,28,Yes,"(a) ""No, it's not""",Yes,Female,27,Yes"(a) ""No, it's not""",,Yes,Male,26,Yes,"(a) ""No, it's not""",Yes,Female,34,Yes"(b) ""Yes, it is""",,Yes,Female,31,Yes,"(b) ""Yes, it is""",Yes,Female,39,Yes"(b) ""Yes, it is""",,Yes,Female,24,Yes"(b) ""Yes, it is""",,Yes,Male,28,Yes,"(a) ""No, it's not""",Yes,Male,53,Yes,"(b) ""Yes, it is""",Yes,Male,30,Yes,"(a) ""No, it's not""",Yes,Female,24,Yes,"(b) ""Yes, it is""",Yes,Male,26,Yes,"(a) ""No, it's not""",Yes,Male,65,No,"(a) ""No, it's not""",Yes,Male,50,No,"(b) ""Yes, it is""",Yes,Female,38,Yes,"(b) ""Yes, it is""",Yes,Male,44,Yes,"(a) ""No, it's not""",Yes,Male,23,Yes,"(b) ""Yes, it is""",Yes,Male,27,Yes,"(b) ""Yes, it is""",Yes,Male,34,Yes"(a) ""No, it's not""",,Yes,Male,35,Yes,"(b) ""Yes, it is""",Yes,Male,28,Yes,"(b) ""Yes, it is""",Yes,Female,41,Yes"(a) ""No, it's not""",,Yes,Female,30,Yes"(b) ""Yes, it is""",,Yes,Male,29,Yes,"(a) ""No, it's not""",Yes,Male,27,Yes,"(b) ""Yes, it is""",Yes,Male,32,Yes,"(b) ""Yes, it is""",Yes,Male,40,Yes"(b) ""Yes, it is""",,No,Female,31,Yes,"(b) ""Yes, it is""",Yes,Female,30,Yes"(b) ""Yes, it is""",,Yes,Male,27,Yes"(a) ""No, it's not""",,Yes,Male,60,Yes,"(a) ""No, it's not""",No,Female,35,Yes"(a) ""No, it's not""",,Yes,Female,24,Yes"(a) ""No, it's not""",,Yes,Male,39,Yes"(a) ""No, it's not""",,Yes,Male,35,Yes,"(b) ""Yes, it is""",Yes,Female,35,Yes"(b) ""Yes, it is""",,Yes,Male,43,Yes"(a) ""No, it's not""",,Yes,Female,25,Yes,"(b) ""Yes, it is""",Yes,Male,32,Yes"(a) ""No, it's not""",,No,Male,30,Yes,"(a) ""No, it's not""",Yes,Male,26,Yes"(a) ""No, it's not""",,Yes,Female,32,Yes"(b) ""Yes, it is""",,Yes,Male,21,Yes"(a) ""No, it's not""",,Yes,Female,45,Yes"(b) ""Yes, it is""",,Yes,Male,24,Yes"(a) ""No, it's not""",,Yes,Female,34,Yes,"(b) ""Yes, it is""",Yes,Female,30,Yes"(a) ""No, it's not""",,Yes,Male,55,Yes,"(b) ""Yes, it is""",Yes,Female,26,Yes"(a) ""No, it's not""",,Yes,Female,53,Yes,"(a) ""No, it's not""",Yes,Male,23,Yes,"(b) ""Yes, it is""",Yes,Female,84,Yes,"(a) ""No, it's not""",Yes,Male,23,Yes"(a) ""No, it's not""",,Yes,Female,29,Yes"(b) ""Yes, it is""",,Yes,Male,31,Yes,"(b) ""Yes, it is""",Yes,Male,33,Yes,"(b) ""Yes, it is""",Yes,Male,27,Yes"(a) ""No, it's not""",,Yes,Male,30,Yes,"(b) ""Yes, it is""",Yes,Male,47,Yes,"(a) ""No, it's not""",Yes,Male,29,Yes,"(a) ""No, it's not""",Yes,Female,43,Yes"(a) ""No, it's not""",,Yes,Male,25,Yes,"(b) ""Yes, it is""",Yes,Male,43,Yes,"(b) ""Yes, it is""",Yes,Male,39,Yes,"(b) ""Yes, it is""",Yes,Male,26,Yes,"(b) ""Yes, it is""",Yes,Male,57,Yes,"(b) ""Yes, it is""",Yes,Female,26,Yes,"(a) ""No, it's not""",Yes,Female,32,Yes"(a) ""No, it's not""",,Yes,Female,21,No"(b) ""Yes, it is""",,Yes,Female,34,Yes,"(b) ""Yes, it is""",Yes,Male,39,Yes"(a) ""No, it's not""",,Yes,Male,35,Yes"(a) ""No, it's not""",,Yes,Female,29,Yes,"(b) ""Yes, it is""",No,Female,26,Yes"(a) ""No, it's not""",,Yes,Male,48,Yes"(a) ""No, it's not""",,Yes,Male,42,Yes"(a) ""No, it's not""",,Yes,Female,30,Yes"(b) ""Yes, it is""",,Yes,Female,56,Yes,"(b) ""Yes, it is""",Yes,Male,20,Yes"(a) ""No, it's not""",,Yes,Male,22,Yes"(b) ""Yes, it is""",,Yes,Male,26,Yes,"(b) ""Yes, it is""",Yes,Male,32,Yes,"(a) ""No, it's not""",Yes,Male,34,Yes"(b) ""Yes, it is""",,No,Male,26,Yes,"(b) ""Yes, it is""",Yes,Male,70,Yes"(b) ""Yes, it is""",,Yes,Female,54,Yes,"(b) ""Yes, it is""",Yes,Male,29,No,"(a) ""No, it's not""",Yes,Male,24,Yes"(a) ""No, it's not""",,Yes,Male,25,No"(b) ""Yes, it is""",,Yes,Female,19,Yes"(b) ""Yes, it is""",,Yes,Male,42,Yes,"(b) ""Yes, it is""",Yes,Male,74,Yes,"(b) ""Yes, it is""",Yes,Female,49,No,"(b) ""Yes, it is""",Yes,Male,34,Yes"(a) ""No, it's not""",,Yes,Female,25,Yes,"(b) ""Yes, it is""",Yes,Female,55,Yes"(b) ""Yes, it is""",,Yes,Female,66,Yes,"(b) ""Yes, it is""",Yes,Male,37,No"(b) ""Yes, it is""",,Yes,Male,44,Yes"(a) ""No, it's not""",,Yes,Male,36,Yes,"(b) ""Yes, it is""",Yes,Female,29,Yes"(a) ""No, it's not""",,Yes,Female,47,No"(a) ""No, it's not""",,Yes,Female,48,Yes"(b) ""Yes, it is""",,Yes,Male,47,No"(a) ""No, it's not""",,Yes,Male,39,Yes"(a) ""No, it's not""",,Yes,Female,64,Yes,"(b) ""Yes, it is""",Yes,Male,19,Yes,"(a) ""No, it's not""",Yes,Male,32,Yes"(b) ""Yes, it is""",,Yes,Female,36,Yes"(a) ""No, it's not""",,,,,,"(b) ""Yes, it is""",Yes,,,"(b) ""Yes, it is""",,Yes,Female,50,Yes,"(b) ""Yes, it is""",Yes,,,"(a) ""No, it's not""",,Yes,"(b) ""Yes, it is""",
