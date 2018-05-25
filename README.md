@@ -83,6 +83,8 @@ As before, participants in both conditions were given the detective's question (
 >
 >(b) “Yes, it is.”
 
+The same comprehension check question was used as in Experiments 2 and 3. 
+
 ## Experiment 5
 As before, participants were randomly assigned to one of two conditions, QUD-PREJACENT and QUD-COMPETENCE.  All participants received a vignette that began as follows:
 
