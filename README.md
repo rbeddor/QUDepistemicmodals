@@ -39,7 +39,7 @@ Participants were randomly assigned to one of two conditions: QUD-PREJACENT or Q
 
 Participants received one of two continuations of this vignette, depending on which condition they were assigned. Participants who were assigned to the QUD-PREJACENT condition received a continuation of the vignette containing a discussion focused on whether Fat Tony is dead:
 
->A week later, a detective is consulting her criminal informant about who was responsible for mob-style murder.  The informant knows that Tony is alive.
+>A week later, a detective is consulting her criminal informant about who was responsible for a mob-style murder.  The informant knows that Tony is alive.
 >
 >Detective:  “We're trying to find the killer.  We know that the victim was an enemy of Fat Tony.  However, our forensic expert said, ‘Fat Tony might be dead.’ Is what he said true?”
 
