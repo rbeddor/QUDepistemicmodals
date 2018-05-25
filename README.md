@@ -39,15 +39,15 @@ Participants were randomly assigned to one of two conditions: QUD-PREJACENT or Q
 
 Participants received one of two continuations of this vignette, depending on which condition they were assigned. Participants who were assigned to the QUD-PREJACENT condition received a continuation of the vignette containing a discussion focused on whether Fat Tony is dead:
 
->A week later, a detective is consulting her criminal informant about who was responsible for a mob-style murder.  The informant knows that Tony is alive.
+>A week later, a murder is committed.  The detective assigned to investigate the murder is trying to figure out whether Fat Tony could be responsible, and consults a criminal informant. The informant knows that Tony is alive. The detective asks:
 >
 >Detective:  “We're trying to find the killer.  We know that the victim was an enemy of Fat Tony.  However, our forensic expert said, ‘Fat Tony might be dead.’ Is what he said true?”
 
 Participants who were assigned to the QUD-COMPETENCE condition received a continuation of the vignette containing a discussion focused on whether the forensic expert (named “Ed” in this version of the vignette) conducted his investigation competently:
  
->A week later, another forensic expert, Ted, is given new evidence that conclusively shows that Fat Tony is still alive.  The police department is trying to determine whether the initial investigation was competent, and so sends a detective to interview Ted. 
- >
->Detective:  “We're trying to figure out whether Ed's initial investigation was competent.  On the basis of the initial evidence, Ed said, ‘Fat Tony might be dead.’ Is what he said true?’”
+>A week later, another forensic expert, Ted, is given new evidence that conclusively shows that Fat Tony is still alive.  The police department is trying to determine whether the initial investigation was competent, and so sends a detective to interview Ted. The detective asks:
+>
+>“We're trying to figure out whether Ed's initial investigation was competent.  On the basis of the initial evidence, Ed said, ‘Fat Tony might be dead.’ Is what he said true?’”
 
 In both conditions participants were asked:
 
